@@ -1,0 +1,4 @@
+cron - у людей
+/etc/init.d/cron - опять же у меня, ну алиас
+crontab -e создает файл с расписанием
+crontab {start} запускает ну и см usage

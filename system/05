@@ -1,0 +1,6 @@
+systemctl status ssh
+
+or
+
+service ssh status
+#requires root
