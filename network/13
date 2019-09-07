@@ -1,0 +1,2 @@
+#dig +noall +answer -x 192.168.21.73 | cut -d '	' -f 3
+#current result: oa-k4.21-school.ru.

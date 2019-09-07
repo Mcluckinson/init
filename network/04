@@ -1,0 +1,1 @@
+oa-j1% netstat -rn | grep -m 1 default | awk '{print$2}'
