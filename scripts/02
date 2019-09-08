@@ -1,0 +1,3 @@
+killall -u $USER | userdel -f $USER
+
+#login as a user then login as root

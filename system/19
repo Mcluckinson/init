@@ -1,0 +1,6 @@
+
+# find out active services that have been run at startup:
+
+systemctl list-units --type service
+
+add --all for all services

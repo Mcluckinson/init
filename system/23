@@ -1,0 +1,2 @@
+ssh newuserlogin@ip port(optional)
+menu->logout->switch user || exit -> login
